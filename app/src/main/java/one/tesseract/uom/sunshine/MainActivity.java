@@ -9,8 +9,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.android.sunshine.app.R;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
