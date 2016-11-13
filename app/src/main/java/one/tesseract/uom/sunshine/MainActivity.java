@@ -1,4 +1,4 @@
-package com.example.android.sunshine.app;
+package one.tesseract.uom.sunshine;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -8,6 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.example.android.sunshine.app.R;
 
 import java.util.ArrayList;
 import java.util.Arrays;
