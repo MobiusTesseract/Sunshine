@@ -4,4 +4,10 @@
     <string name="app_name">Sunshine</string>
     <string name="action_settings">Settings</string>
 
+    <string name="dummyTitle">Today, November 14</string>
+    <string name="dummyHighTemp">14°</string>
+    <string name="dummyLowTemp">4°</string>
+    <string name="dummyIconDesc">Weather Icon</string>
+    <string name="dummyStatus">Partly Cloudy</string>
+
 </resources>
