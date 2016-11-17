@@ -1,5 +1,6 @@
-.gradle
 .DS_Store
+Thumbs.db
+/captures
 
 # built application files
 *.apk
